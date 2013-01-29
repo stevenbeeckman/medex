@@ -8,7 +8,7 @@ lib-cov
 *.gz
 medex.sublime-project
 medex.sublime-workspace
-
+node_modules
 pids
 logs
 results
