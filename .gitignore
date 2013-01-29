@@ -6,6 +6,8 @@ lib-cov
 *.out
 *.pid
 *.gz
+medex.sublime-project
+medex.sublime-workspace
 
 pids
 logs
